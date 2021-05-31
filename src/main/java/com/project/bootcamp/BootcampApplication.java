@@ -21,6 +21,6 @@ public class BootcampApplication {
 						.title(description)
 						.version("1.0")
 						.termsOfService("http://swagger.io/terms")
-						.license(new License().name("Apache 2.0").url("http://sprinfoc.org")));
+						.license(new License().name("Apache 2.0").url("http://sprindoc.org")));
 	}
 }
