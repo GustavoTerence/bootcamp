@@ -10,7 +10,7 @@ spring:
     username: tzdrusfpyhbwhp
     password: baa24816892e19a7ddad5547ba44f21a225ffa893f4ebaabb7d4d71fbd649a72
 
-  jpa:
+jpa:
    show-sql: true
    database-platform: org.hibernate.dialect.PostgresSQLDialect
    generate-ddl: true
